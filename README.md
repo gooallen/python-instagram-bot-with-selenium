@@ -1,4 +1,4 @@
-# python-instagram-bot-with-jenkins
+# python-instagram-bot-with-selenium
 Simple Bot to filter unfollowing people
 
 ### Setup for virtual environment
